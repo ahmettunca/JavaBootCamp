@@ -10,4 +10,5 @@
 - **Lesson 4**
 	 - [*interface*](https://github.com/ahmettunca/JavaBootCamp/tree/master/lesson4.1-interface)
 	 - [*task2*](https://github.com/ahmettunca/JavaBootCamp/tree/master/lesson4.2-task2)
+	 - [*task3*](https://github.com/ahmettunca/JavaBootCamp/tree/master/lesson4.3-task3)
 
